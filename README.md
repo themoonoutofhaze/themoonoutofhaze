@@ -23,13 +23,27 @@ Even though I'm currently focusing on **NLP**, I believe every field in tech add
 
 ---
 
-## 📊 GitHub Dynamics
+## 📊 GitHub Dynamics & Code Analysis
 
 <div align="center">
   
   <a href="https://github.com/themoonoutofhaze">
     <img src="https://streak-stats.demolab.com/?user=themoonoutofhaze&theme=radical&hide_border=true&title_color=D97757&text_color=A1A1AA&icon_color=D97757&background=18181B#gh-dark-mode-only" alt="GitHub Streak" />
     <img src="https://streak-stats.demolab.com/?user=themoonoutofhaze&theme=default&hide_border=true&title_color=D97757&text_color=3F3F46&icon_color=D97757&background=F3F4F6#gh-light-mode-only" alt="GitHub Streak" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/themoonoutofhaze">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themoonoutofhaze&layout=compact&title_color=D97757&text_color=A1A1AA&bg_color=18181B&hide_border=true&langs_count=6#gh-dark-mode-only" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themoonoutofhaze&layout=compact&title_color=D97757&text_color=3F3F46&bg_color=F3F4F6&hide_border=true&langs_count=6#gh-light-mode-only" alt="Top Languages" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/themoonoutofhaze">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=themoonoutofhaze&bg_color=18181B&color=A1A1AA&line=D97757&point=18181B&area=true&hide_border=true#gh-dark-mode-only" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=themoonoutofhaze&bg_color=F3F4F6&color=3F3F46&line=D97757&point=F3F4F6&area=true&hide_border=true#gh-light-mode-only" alt="Activity Graph" />
   </a>
 
 </div>
