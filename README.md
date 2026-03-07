@@ -1,80 +1,100 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E07A38,E8956D&height=160&section=header&text=Mehdi%20Nickzamir&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20NLP%20Explorer&descAlignY=58&descSize=16" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E07A38&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Mehdi+%F0%9F%91%8B;26+y%2Fo+%7C+Data+Science+%40+PoliTo%2C+Turin;Deep+Learning+%26+NLP+Enthusiast;Building%2C+Breaking%2C+and+Learning;Always+Exploring+New+Domains+%F0%9F%94%AD" alt="Typing SVG" />
-</a>
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E8661A&height=160&section=header&text=Mehdi%20Nickzamir&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20NLP%20Researcher%20%7C%20Deep%20Learning%20Enthusiast&descAlignY=62&descSize=14&descColor=ffe5d0"/>
 
 </div>
 
----
+<br/>
 
-<img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-### 🧠 About Me
+### 👋 Hey, I'm Mehdi
+I'm a **26-year-old** MSc Data Science student at **Politecnico di Torino**, Italy — originally from Iran, currently based in Turin 🇮🇹
 
-- 🎓 MSc Data Science student **@PoliTo, Turin**
-- 🔬 Focused on **NLP & Deep Learning**
-- 🌱 Currently exploring **LLMs, transformers, and RAG**
-- 🤔 Considering a **PhD** — destination TBD!
-- 💥 I learn best by **building and breaking things**
-- ✍️ I write on **Medium** & make videos on **YouTube**
-- 🌍 Originally from **Iran**, based in **Italy**
+I'm passionate about **NLP** and **Deep Learning**, constantly building, breaking things, and learning along the way. I believe every field in tech adds its own necessary spice, so I stay curious across the board.
 
-<br clear="right"/>
+Currently exploring research directions toward a **PhD** in AI.
+
+<br/>
+
+**🔬 Research Interests**
+
+`Natural Language Processing` &nbsp; `Deep Learning` &nbsp; `LLMs`  
+`Representation Learning` &nbsp; `AI for Science`
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<br/>
+```txt
+   🧠 Currently:   MSc @ PoliTo, Turin
+   🔭 Exploring:   NLP & Large Language Models
+   🎯 Next step:   PhD (destination TBD!)
+   📍 Based in:    Turin, Italy
+   ☕ Fuel:        Chai & curiosity
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-F5F0EB?style=for-the-badge&logo=python&logoColor=E07A38)
-![PyTorch](https://img.shields.io/badge/PyTorch-F5F0EB?style=for-the-badge&logo=pytorch&logoColor=E07A38)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-F5F0EB?style=for-the-badge&logo=huggingface&logoColor=E07A38)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-F5F0EB?style=for-the-badge&logo=tensorflow&logoColor=E07A38)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F5F0EB?style=for-the-badge&logo=scikitlearn&logoColor=E07A38)
-![NumPy](https://img.shields.io/badge/NumPy-F5F0EB?style=for-the-badge&logo=numpy&logoColor=E07A38)
-![Pandas](https://img.shields.io/badge/Pandas-F5F0EB?style=for-the-badge&logo=pandas&logoColor=E07A38)
-![SQL](https://img.shields.io/badge/SQL-F5F0EB?style=for-the-badge&logo=postgresql&logoColor=E07A38)
-![Git](https://img.shields.io/badge/Git-F5F0EB?style=for-the-badge&logo=git&logoColor=E07A38)
-![Linux](https://img.shields.io/badge/Linux-F5F0EB?style=for-the-badge&logo=linux&logoColor=E07A38)
-
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Python-E8661A?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-E8661A?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-E8661A?style=flat-square&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-E8661A?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-E8661A?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-f0f0f0?style=flat-square&logo=docker&logoColor=E8661A"/>
+  <img src="https://img.shields.io/badge/Git-f0f0f0?style=flat-square&logo=git&logoColor=E8661A"/>
+  <img src="https://img.shields.io/badge/Linux-f0f0f0?style=flat-square&logo=linux&logoColor=E8661A"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&title_color=E07A38&icon_color=E07A38&text_color=333333&bg_color=F5F0EB&border_color=E07A38&hide_border=false" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&title_color=E07A38&text_color=333333&bg_color=F5F0EB&border_color=E07A38" />
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&title_color=E8661A&icon_color=E8661A&border_color=e0e0e0&bg_color=fafafa&text_color=333333&hide_border=false"/>
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&title_color=E8661A&border_color=e0e0e0&bg_color=fafafa&text_color=333333"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&background=F5F0EB&ring=E07A38&fire=E8956D&currStreakLabel=E07A38&sideLabels=666666&border=E07A38" />
-</div>
+---
+
+### ✍️ Latest Writing
+
+<!-- You can replace these with actual Medium post links -->
+> 📝 I write about ML concepts, experiments, and ideas on [Medium → @MehdiNick](https://medium.com/@MehdiNick)
 
 ---
 
 ### 📫 Let's Connect
 
-<div align="center">
+<p>
+  <a href="mailto:Mehdi.nickzamir99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E8661A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/mehdi-nickzamir">
+    <img src="https://img.shields.io/badge/LinkedIn-E8661A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@MehdiNick">
+    <img src="https://img.shields.io/badge/Medium-E8661A?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@MehdiExplores">
+    <img src="https://img.shields.io/badge/YouTube-f0f0f0?style=for-the-badge&logo=youtube&logoColor=E8661A"/>
+  </a>
+</p>
 
-[![Email](https://img.shields.io/badge/Email-Mehdi.nickzamir99@gmail.com-E07A38?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mehdi.nickzamir99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mehdi--nickzamir-E07A38?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehdi-nickzamir)
-[![Medium](https://img.shields.io/badge/Medium-@MehdiNick-E07A38?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@MehdiNick)
-[![YouTube](https://img.shields.io/badge/YouTube-MehdiExplores-E07A38?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MehdiExplores)
+<br/>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E07A38,E8956D&height=100&section=footer" width="100%"/>
-  
-  <sub>Whether you want to discuss AI, collaborate on a project, or just say hi — feel free to reach out! 🚀</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E8661A&height=100&section=footer"/>
