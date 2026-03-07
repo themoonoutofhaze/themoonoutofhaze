@@ -1,44 +1,49 @@
 <div align="center">
-
-# 🖥️ Hello, World! I'm Mehdi _
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Deep+Learning+Explorer;Building,+Breaking,+Learning" alt="Typing SVG" />
-
+  <h1>Hi there! I'm Mehdi 👋</h1>
+  <h3>Data Science Engineer | Deep Learning Enthusiast</h3>
 </div>
 
+<p align="center">
+  <em>"I'm a 26-year-old student passionate about Data Science and Deep Learning. I'm currently figuring out the fascinating world of AI, enjoying the process of building, breaking things, and constantly learning along the way!"</em>
+</p>
+
+<hr>
+
+### 🚀 About My Journey
+Even though I'm currently focusing on **NLP**, I believe every field in tech adds its own necessary spice. I'm always open to exploring new domains and pushing the boundaries of what I can build.
+
 <br>
 
-### 💾 `> ABOUT_ME.exe`
-
-> I'm a 26-year-old student passionate about **Data Science** and **Deep Learning**. 
-> I'm currently figuring out the fascinating world of AI, enjoying the process of building, breaking things, and constantly learning along the way! 
->
-> Even though my current focus is on **NLP**, I believe every field in tech adds its own necessary spice. I'm always open to exploring new domains. 🌶️
+### 💻 Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-F5F5F5?style=for-the-badge&logo=python&logoColor=D45E43" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-F5F5F5?style=for-the-badge&logo=pytorch&logoColor=D45E43" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Keras-F5F5F5?style=for-the-badge&logo=keras&logoColor=D45E43" alt="Keras" />
+  <img src="https://img.shields.io/badge/Pandas-F5F5F5?style=for-the-badge&logo=pandas&logoColor=D45E43" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-F5F5F5?style=for-the-badge&logo=numpy&logoColor=D45E43" alt="NumPy" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-F5F5F5?style=for-the-badge&logo=openai&logoColor=D45E43" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Transformers-F5F5F5?style=for-the-badge&logo=huggingface&logoColor=D45E43" alt="Transformers" />
+  <img src="https://img.shields.io/badge/CNNs-F5F5F5?style=for-the-badge&logo=codeigniter&logoColor=D45E43" alt="CNNs" />
+</p>
 
 <br>
 
-### 📡 `> ESTABLISH_CONNECTION.bat`
+### 📫 Let's Connect
+Whether you want to discuss AI, collaborate on a project, or just say hi, feel free to reach out:
 
-*Whether you want to discuss AI, collaborate on a project, or just say hi, feel free to reach out:*
-
-<div align="left">
+<p align="left">
   <a href="mailto:Mehdi.nickzamir99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F0F0F0?style=for-the-badge&logo=gmail&logoColor=D97757" alt="Email">
+    <img src="https://img.shields.io/badge/Email-F5F5F5?style=for-the-badge&logo=gmail&logoColor=D45E43" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/mehdi-nickzamir">
-    <img src="https://img.shields.io/badge/LinkedIn-F0F0F0?style=for-the-badge&logo=linkedin&logoColor=D97757" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=D45E43" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@MehdiNick">
-    <img src="https://img.shields.io/badge/Medium-F0F0F0?style=for-the-badge&logo=medium&logoColor=D97757" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-F5F5F5?style=for-the-badge&logo=medium&logoColor=D45E43" alt="Medium" />
   </a>
   <a href="https://youtube.com/@MehdiExplores">
-    <img src="https://img.shields.io/badge/YouTube-F0F0F0?style=for-the-badge&logo=youtube&logoColor=D97757" alt="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-F5F5F5?style=for-the-badge&logo=youtube&logoColor=D45E43" alt="YouTube" />
   </a>
-</div>
-
-<br>
-
----
-<div align="center">
-  <sub><i>Initializing next learning epoch... ⏳ (YouTube content coming soon!)</i></sub>
-</div>
+</p>
