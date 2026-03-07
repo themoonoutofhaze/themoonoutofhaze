@@ -1,38 +1,30 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>_+Data+Science+%26+Deep+Learning;>_+Focusing+on+NLP;>_+Building,+Breaking,+Learning" alt="Typing SVG" />
+# Hi there! I'm Mehdi 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Data+Science+%26+Deep+Learning;Focusing+on+NLP;Building,+Breaking,+Learning" alt="Typing SVG" />
 
 <br/>
 
-<a href="mailto:Mehdi.nickzamir99@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/mehdi-nickzamir"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" alt="LinkedIn" /></a>
-<a href="https://youtube.com/@MehdiExplores"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FF00" alt="YouTube" /></a>
+<a href="mailto:Mehdi.nickzamir99@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=D97757" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mehdi-nickzamir"><img src="https://img.shields.io/badge/LinkedIn-F3F4F6?style=for-the-badge&logo=linkedin&logoColor=D97757" alt="LinkedIn" /></a>
+<a href="https://youtube.com/@MehdiExplores"><img src="https://img.shields.io/badge/YouTube-18181B?style=for-the-badge&logo=youtube&logoColor=D97757" alt="YouTube" /></a>
 
 <br/><br/>
 
 </div>
 
-## 📟 SYSTEM_INITIALIZATION...
+## 👨‍💻 About Me
 
-```console
-user@themoonoutofhaze:~$ ./load_profile.sh
+I'm a **26-year-old student** passionate about Data Science and Deep Learning. I'm currently figuring out the fascinating world of AI, enjoying the process of building, breaking things, and constantly learning along the way! 
 
-  __  __      _         _ _ 
- |  \/  | ___| |__   __| (_)
- | |\/| |/ _ \ '_ \ / _` | |
- | |  | |  __/ | | | (_| | |
- |_|  |_|\___|_| |_|\__,_|_|
+Even though I'm currently focusing on **NLP**, I believe every field in tech adds its own necessary spice. I'm always open to exploring new domains and technologies.
 
-> AGE: 26
-> CLASS: Student
-> SECTOR: Data Science & Deep Learning
-> SPECIALIZATION: NLP (Natural Language Processing)
+---
 
-[LOG_01]: Currently figuring out the fascinating world of AI.
-[LOG_02]: Enjoying the process of building, breaking things, 
-          and constantly learning along the way.
-[LOG_03]: Even though I'm currently focusing on NLP, I believe 
-          every field in tech adds its own necessary spice. 
-          Always open to exploring new domains.
+## 📫 Let's Connect!
 
-user@themoonoutofhaze:~$ ./connect.sh
+Whether you want to discuss AI, collaborate on an NLP project, or just say hi, my inbox is always open. 
+* ✉️ **Email:** Mehdi.nickzamir99@gmail.com
+* 💼 **LinkedIn:** [mehdi-nickzamir](https://www.linkedin.com/in/mehdi-nickzamir)
+* 🎥 **YouTube:** [MehdiExplores](https://youtube.com/@MehdiExplores) *(Fresh channel, content coming soon!)*
