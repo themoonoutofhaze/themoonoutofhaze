@@ -33,10 +33,6 @@ I'm a **26-year-old student** passionate about **Data Science** and **Deep Learn
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=themoonoutofhaze&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ## 📫 Let's Connect!
 
