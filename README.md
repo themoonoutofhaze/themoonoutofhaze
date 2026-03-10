@@ -1,7 +1,7 @@
 <div align="center">
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35"> Hi there! I'm Mehdi
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Data+Science+%26+Deep+Learning;Focusing+on+NLP;Building,+Breaking,+Learning" alt="Typing SVG" />
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mehdi.nickzamir99@gmail.com)
@@ -10,14 +10,6 @@
 
 <br/>
 
----
-
-### 🚀 Tech Stack & Interests
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,huggingface,fastapi,docker,git" />
-</p>
-
-</div>
 
 ## 👨‍💻 About Me
 
