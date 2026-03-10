@@ -9,27 +9,19 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MehdiExplores)
 
 <br/>
-
+</div>
 
 ## 👨‍💻 About Me
 
+I'm a **26-year-old student** passionate about Data Science and Deep Learning. I'm currently figuring out the fascinating world of AI, enjoying the process of building, breaking things, and constantly learning along the way! 
 
-I'm a **26-year-old student** passionate about **Data Science** and **Deep Learning**. I'm currently figuring out the fascinating world of AI, enjoying the process of building, breaking things, and constantly learning along the way! 
-
-* 🔭 **Currently focusing on:** Natural Language Processing (NLP)
-* 🎨 **Philosophy:** Every field in tech adds its own necessary spice.
-* ⚡ **Motto:** Build, Break, Learn, Repeat.
+Even though I'm currently focusing on **NLP**, I believe every field in tech adds its own necessary spice. I'm always open to exploring new domains and technologies.
 
 ---
 
-
 ## 📫 Let's Connect!
 
-  
-* 🌈 **Vibe:** Always open to exploring new domains and technologies.
-* ✉️ **Email:** [Mehdi.nickzamir99@gmail.com](mailto:Mehdi.nickzamir99@gmail.com)
+Whether you want to discuss AI, collaborate on an NLP project, or just say hi, my inbox is always open. 
+* ✉️ **Email:** Mehdi.nickzamir99@gmail.com
 * 💼 **LinkedIn:** [mehdi-nickzamir](https://www.linkedin.com/in/mehdi-nickzamir)
-* 🎥 **YouTube:** [MehdiExplores](https://youtube.com/@MehdiExplores) *(New content coming soon!)*
-
-
-
+* 🎥 **YouTube:** [MehdiExplores](https://youtube.com/@MehdiExplores) *(Fresh channel, content coming soon!)*
